@@ -1,7 +1,25 @@
 {
  "version": 1,
- "updatedAt": 1792272317015,
+ "updatedAt": 1792272382537,
  "items": [
+  {
+   "id": "1792272375847-ntugga",
+   "title": "اراني اليوم مبتسما جميل جدا",
+   "artist": "عائلتي المسلمة",
+   "description": null,
+   "category": "anasheed",
+   "audioUrl": "https://akowdnet-beep.github.io/akowdnet/sada/audio/1792272375847-ntugga.mp3",
+   "coverUrl": "https://akowdnet-beep.github.io/akowdnet/sada/covers/1792272375847-ntugga.jpg",
+   "storagePath": "sada/audio/1792272375847-ntugga.mp3",
+   "coverPath": "sada/covers/1792272375847-ntugga.jpg",
+   "duration": 103.632,
+   "size": 2080597,
+   "mime": "audio/mpeg",
+   "published": true,
+   "source": "upload",
+   "createdAt": 1792272380275,
+   "updatedAt": 1792272380275
+  },
   {
    "id": "1792272309331-p6lp35",
    "title": "اجمل انشودة دينية عن الزوجة/H/......",
