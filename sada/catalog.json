@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "updatedAt": 1792270153786,
+ "items": [
+  {
+   "id": "1792270144007-rjmd7j",
+   "title": "~لا لا تحسب أن الدين بعيد عن حب وحياة~👇",
+   "artist": "ابو المثنى",
+   "description": null,
+   "category": "anasheed",
+   "audioUrl": "https://akowdnet-beep.github.io/akowdnet/sada/audio/1792270144007-rjmd7j.mp3",
+   "coverUrl": "https://akowdnet-beep.github.io/akowdnet/sada/covers/1792270144007-rjmd7j.jpg",
+   "storagePath": "sada/audio/1792270144007-rjmd7j.mp3",
+   "coverPath": "sada/covers/1792270144007-rjmd7j.jpg",
+   "duration": 252.168,
+   "size": 5085294,
+   "mime": "audio/mpeg",
+   "published": true,
+   "source": "upload",
+   "createdAt": 1792270151628,
+   "updatedAt": 1792270151628
+  }
+ ]
+}
