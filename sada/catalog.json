@@ -1,7 +1,25 @@
 {
  "version": 1,
- "updatedAt": 1792316924747,
+ "updatedAt": 1792317095756,
  "items": [
+  {
+   "id": "1792317045193-p9am57",
+   "title": "دعاء بصوت شجي وعذب - الشبل يوسف كالو",
+   "artist": "يوسف كالو",
+   "description": null,
+   "category": "other",
+   "audioUrl": "https://akowdnet-beep.github.io/akowdnet/sada/audio/1792317045193-p9am57.mp3",
+   "coverUrl": "https://akowdnet-beep.github.io/akowdnet/sada/covers/1792317045193-p9am57.jpg",
+   "storagePath": "sada/audio/1792317045193-p9am57.mp3",
+   "coverPath": "sada/covers/1792317045193-p9am57.jpg",
+   "duration": 555.48,
+   "size": 11209607,
+   "mime": "audio/mpeg",
+   "published": true,
+   "source": "upload",
+   "createdAt": 1792317092225,
+   "updatedAt": 1792317092225
+  },
   {
    "id": "1792316902640-h4cyfm",
    "title": "تمت ثلاث عشرة | مقرأة أسرة غيث",
