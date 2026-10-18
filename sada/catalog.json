@@ -1,14 +1,25 @@
 {
- "version": 2,
- "updatedAt": 1792307969498,
- "folders": [
-  {
-   "id": "f1792307813987l35ryb",
-   "name": "اناشيد جديدة",
-   "createdAt": 1792307813987
-  }
- ],
+ "version": 1,
+ "updatedAt": 1792308122991,
  "items": [
+  {
+   "id": "1792308103582-judyrx",
+   "title": "#السودان #القلم #مثلث_برمودا",
+   "artist": "muhammadabdarahaman",
+   "description": null,
+   "category": "other",
+   "audioUrl": "https://akowdnet-beep.github.io/akowdnet/sada/audio/1792308103582-judyrx.mp3",
+   "coverUrl": "https://akowdnet-beep.github.io/akowdnet/sada/covers/1792308103582-judyrx.jpg",
+   "storagePath": "sada/audio/1792308103582-judyrx.mp3",
+   "coverPath": "sada/covers/1792308103582-judyrx.jpg",
+   "duration": 600.058756,
+   "size": 9621229,
+   "mime": "audio/mpeg",
+   "published": true,
+   "source": "upload",
+   "createdAt": 1792308120474,
+   "updatedAt": 1792308120474
+  },
   {
    "id": "1792307947971-97hqoo",
    "title": "#السودان #القلم #مثلث_برمودا",
