@@ -1,7 +1,25 @@
 {
  "version": 1,
- "updatedAt": 1792310212829,
+ "updatedAt": 1792310263638,
  "items": [
+  {
+   "id": "1792310242780-ybgij3",
+   "title": "Surat Al Waqia",
+   "artist": "Bilal Al Dirbali",
+   "description": null,
+   "category": "quran",
+   "audioUrl": "https://akowdnet-beep.github.io/akowdnet/sada/audio/1792310242780-ybgij3.mp3",
+   "coverUrl": "https://akowdnet-beep.github.io/akowdnet/sada/covers/1792310242780-ybgij3.jpg",
+   "storagePath": "sada/audio/1792310242780-ybgij3.mp3",
+   "coverPath": "sada/covers/1792310242780-ybgij3.jpg",
+   "duration": 570.864,
+   "size": 11681906,
+   "mime": "audio/mpeg",
+   "published": true,
+   "source": "upload",
+   "createdAt": 1792310260406,
+   "updatedAt": 1792310260406
+  },
   {
    "id": "1792310160398-5jtrib",
    "title": "سورة الإنسان كاملة ️ راحة نفسية   تلاوة مريحة تريح الأعصاب  بصوت هادئ  القارئ بلال دربالي️",
