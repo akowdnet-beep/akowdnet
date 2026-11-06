@@ -1,0 +1,14 @@
+=== صفحة 1 ===
+firebase
+const firebaseConfig = {
+apiKey: "AlzaSyBnCZ7tyP5-j8Uh7WAdmhyzttz295bxwVY",
+authDomain: "my-audio-quran.firebaseapp.com",
+projectld: "my-audio-quran”,
+storageBucket: "my-audio-quran.firebasestorage.app”,
+messagingSenderld: "210886407041",
+appld: "1:210886407041:web:511e6903cd23bbaaf2ee80"
+3
+
+171
+
+
