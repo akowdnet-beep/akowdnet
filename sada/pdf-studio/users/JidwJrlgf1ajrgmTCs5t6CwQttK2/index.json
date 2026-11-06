@@ -43,8 +43,9 @@
       "size": 2866859,
       "date": 1793985341213,
       "path": "sada/pdf-studio/users/JidwJrlgf1ajrgmTCs5t6CwQttK2/files/1999a423-0f35-4220-b203-7d13c99f4a59.pdf",
-      "trashed": false
+      "trashed": true,
+      "trashedAt": 1793991221339
     }
   ],
-  "updated": 1793990167211
+  "updated": 1793991221340
 }
