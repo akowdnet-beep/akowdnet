@@ -21,18 +21,6 @@
       "encrypted": false
     },
     {
-      "id": "d0a73ba8-a875-4115-b469-32eb6b79c579",
-      "name": "compressed_43929.pdf",
-      "type": "application/pdf",
-      "size": 2268639,
-      "date": 1793994846898,
-      "path": "sada/pdf-studio/users/JidwJrlgf1ajrgmTCs5t6CwQttK2/files/d0a73ba8-a875-4115-b469-32eb6b79c579.pdf",
-      "versions": [],
-      "encrypted": false,
-      "trashed": true,
-      "trashedAt": 1793996852083
-    },
-    {
       "id": "c8f79a47-dfcc-4abf-bdf7-301206fca074",
       "name": "السبت 17 أكتوبر 2026 م الموافق 6 جمادى الأولى 1448 هـ copy_ocr.txt",
       "type": "text/plain",
@@ -80,5 +68,5 @@
       "trashed": false
     }
   ],
-  "updated": 1793996938544
+  "updated": 1793996983600
 }
