@@ -35,7 +35,8 @@
       "size": 7472394,
       "date": 1793983709869,
       "path": "sada/pdf-studio/users/JidwJrlgf1ajrgmTCs5t6CwQttK2/files/82aaa8af-c2ca-4165-b715-b317bf1d8a06.pdf",
-      "trashed": false
+      "trashed": true,
+      "trashedAt": 1793992126888
     },
     {
       "id": "784d7994-27c6-452a-af72-6aad43b384e4",
@@ -57,5 +58,5 @@
       "trashedAt": 1793991221339
     }
   ],
-  "updated": 1793991620732
+  "updated": 1793992126888
 }
