@@ -8,7 +8,9 @@
       "date": 1794248235443,
       "path": "sada/pdf-studio/users/JidwJrlgf1ajrgmTCs5t6CwQttK2/files/3de83c1a-6b84-49de-968d-2902044dd2bc.pdf",
       "versions": [],
-      "encrypted": false
+      "encrypted": false,
+      "trashed": true,
+      "trashedAt": 1794319750826
     },
     {
       "id": "94a68216-f4fc-4a4b-a736-013ef5780da9",
@@ -78,5 +80,5 @@
       "trashed": false
     }
   ],
-  "updated": 1794248541661
+  "updated": 1794319750826
 }
