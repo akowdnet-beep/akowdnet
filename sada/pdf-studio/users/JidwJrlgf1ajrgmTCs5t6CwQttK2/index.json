@@ -1,6 +1,16 @@
 {
   "files": [
     {
+      "id": "241b4728-6cab-497c-b58b-2f8d26bb42c1",
+      "name": "edited_20861.pdf",
+      "type": "application/pdf",
+      "size": 18734941,
+      "date": 1794320123291,
+      "path": "sada/pdf-studio/users/JidwJrlgf1ajrgmTCs5t6CwQttK2/files/241b4728-6cab-497c-b58b-2f8d26bb42c1.pdf",
+      "versions": [],
+      "encrypted": false
+    },
+    {
       "id": "3de83c1a-6b84-49de-968d-2902044dd2bc",
       "name": "scanned_document.pdf",
       "type": "application/pdf",
@@ -80,5 +90,5 @@
       "trashed": false
     }
   ],
-  "updated": 1794319807083
+  "updated": 1794320148200
 }
