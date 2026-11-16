@@ -168,7 +168,7 @@ button,input{font:inherit}
         <a href='/search/label/الإبداع'>الإبداع</a>
         <a href='/search/label/الثقافة'>الثقافة</a>
         <a href='/search/label/المقالات'>المقالات</a>
-        <a href='/p/about.html'>من نحن</a>
+        <a href='/p/about.htmlhttps://almuthannaforcreativity.blogspot.com/p/blog-page_16.html'>من نحن</a>
         <a href='/p/contact.html'>اتصل بنا</a>
       </div>
     </nav>
@@ -953,7 +953,7 @@ button,input{font:inherit}
       <aside class='sidebar-column'>
         <div class='sidebar-box'>
           <h3>عن المدونة</h3>
-          <p>المثنى للإبداع مدونة عربية متنوعة تهتم بنشر المعرفة والأفكار والمحتوى المفيد في مجالات متعددة.</p>
+          <p>مؤسسة المثنى للإبداع الرقمي: شريكك الاستراتيجي للتحول الرقمي، التصميم الجرافيكي، تطوير المواقع، وصناعة المحتوى المؤثر.</p>
         </div>
         <b:section class='sidebar' id='sidebar' name='الشريط الجانبي' showaddelement='yes'>
           <b:widget id='Label1' locked='false' title='أقسام المدونة' type='Label' visible='true'>
@@ -1031,7 +1031,7 @@ button,input{font:inherit}
         </div>
         <div>
           <h3>روابط مهمة</h3>
-          <p><a href='/p/about.html'>من نحن</a></p>
+          <p><a href='/p/about.htmlhttps://almuthannaforcreativity.blogspot.com/p/blog-page_16.html'>من نحن</a></p>
           <p><a href='/p/contact.html'>اتصل بنا</a></p>
           <p><a href='/p/privacy-policy.html'>سياسة الخصوصية</a></p>
         </div>
