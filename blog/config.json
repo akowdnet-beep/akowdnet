@@ -2,6 +2,7 @@
   "blueColor": "#1264c8",
   "blueDarkColor": "#103d70",
   "pageBgColor": "#f5f8fc",
+  "brandLogoUrl": "",
   "brandMark": " ",
   "brandName": "مؤسسة المثنى للإبداع الرقمي ",
   "brandTag": "ALMUTHANNA FOR CREATIVITY",
@@ -37,8 +38,8 @@
     }
   ],
   "heroKicker": "منصة المعرفة والإلهام",
-  "heroTitle": "أفكار ملهمة، معرفة بلا حدود",
-  "heroDesc": "مرحباً بك في المثنى للإبداع؛ مساحة تجمع التقنية والثقافة والأفكار والمقالات المتنوعة، لنكتشف المعرفة ونصنع الإبداع معاً.",
+  "heroTitle": "أفكار ملهمة معرفة بلا حدود",
+  "heroDesc": "مرحباً بك في المثنى للإبداع مساحة تجمع التقنية والثقافة والأفكار والمقالات المتنوعة لنكتشف المعرفة ونصنع الإبداع معاً",
   "heroBtnText": "استكشف المقالات",
   "heroBtnUrl": "/search",
   "sectionTitle": "أحدث المقالات",
@@ -50,5 +51,7 @@
   "footerDesc": "منصة تجمع المعرفة والإبداع في مكان واحد نشارك الأفكار والمقالات لنقدم محتوى مفيداً وملهماً للجميع",
   "footerCopy": "© مؤسسة المثنى للإبداع الرقمي _ جميع الحقوق محفوظة لسنة 2026™",
   "contactUrl": "/p/contact.html",
-  "privacyUrl": "/p/privacy-policy.html"
+  "privacyUrl": "/p/privacy-policy.html",
+  "backTopShape": "rounded",
+  "backTopIcon": "▲"
 }
