@@ -52,6 +52,6 @@
   "footerCopy": "© مؤسسة المثنى للإبداع الرقمي _ جميع الحقوق محفوظة لسنة 2026™",
   "contactUrl": "/p/contact.html",
   "privacyUrl": "/p/privacy-policy.html",
-  "backTopShape": "rounded",
-  "backTopIcon": "🚀"
+  "backTopShape": "hidden",
+  "backTopIcon": "▲"
 }
