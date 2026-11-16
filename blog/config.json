@@ -1,0 +1,54 @@
+{
+  "blueColor": "#1264c8",
+  "blueDarkColor": "#103d70",
+  "pageBgColor": "#f5f8fc",
+  "brandMark": "م",
+  "brandName": "مؤسسة المثنى للإبداع الرقمي ",
+  "brandTag": "ALMUTHANNA FOR CREATIVITY",
+  "searchPlaceholder": "ابحث...",
+  "navItems": [
+    {
+      "label": "الرئيسية",
+      "url": "/"
+    },
+    {
+      "label": "التقنية",
+      "url": "/search/label/التقنية"
+    },
+    {
+      "label": "الإبداع",
+      "url": "/search/label/الإبداع"
+    },
+    {
+      "label": "الثقافة",
+      "url": "/search/label/الثقافة"
+    },
+    {
+      "label": "المقالات",
+      "url": "/search/label/المقالات"
+    },
+    {
+      "label": "من نحن",
+      "url": "/p/about.html"
+    },
+    {
+      "label": "اتصل بنا",
+      "url": "/p/contact.html"
+    }
+  ],
+  "heroKicker": "منصة المعرفة والإلهام",
+  "heroTitle": "أفكار ملهمة، معرفة بلا حدود",
+  "heroDesc": "مرحباً بك في المثنى للإبداع؛ مساحة تجمع التقنية والثقافة والأفكار والمقالات المتنوعة، لنكتشف المعرفة ونصنع الإبداع معاً.",
+  "heroBtnText": "استكشف المقالات",
+  "heroBtnUrl": "/search",
+  "sectionTitle": "أحدث المقالات",
+  "sectionSubtitle": "محتوى متجدد يستحق القراءة",
+  "sidebarAboutTitle": "عن المدونة",
+  "sidebarAboutText": "المثنى للإبداع مدونة عربية متنوعة تهتم بنشر المعرفة والأفكار والمحتوى المفيد في مجالات متعددة.",
+  "aboutUrl": "/p/about.html",
+  "footerTitle": "المثنى للإبداع",
+  "footerDesc": "منصة عربية تجمع المعرفة والإبداع في مكان واحد. نشارك الأفكار والمقالات لنقدم محتوى مفيداً وملهماً للجميع.",
+  "footerCopy": "© مؤسسة المثنى للإبداع الرقمي — جميع الحقوق محفوظة",
+  "contactUrl": "/p/contact.html",
+  "privacyUrl": "/p/privacy-policy.html"
+}
