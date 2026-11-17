@@ -30,7 +30,7 @@
     },
     {
       "label": "من نحن",
-      "url": "/p/about.html"
+      "url": "<style>   .almuthanna-about {     background: #ffffff;     border-radius: 18px;     padding: 35px 28px;     border: 1px solid #e7edf5;     box-shadow: 0 12px 34px rgba(25, 68, 120, 0.06);     line-height: 1.9;     color: #172b45;   }   .almuthanna-about .about-badge {     display: inline-block;     background: #eaf3ff;     color: #1264c8;     padding: 5px 15px;     border-radius: 20px;     font-size: 13px;     font-weight: bold;     margin-bottom: 12px;   }   .almuthanna-about h2 {     color: #103d70;     font-size: 24px;     font-weight: 900;     margin: 0 0 16px;   }   .almuthanna-about h2 span {     color: #1264c8;   }   .almuthanna-about .lead-text {     font-size: 16px;     color: #40546d;     margin-bottom: 30px;   }   .almuthanna-pillars {     display: grid;     grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));     gap: 18px;     margin-top: 20px;   }   .almuthanna-card {     background: #f5f8fc;     border: 1px solid #e7edf5;     border-right: 4px solid #1264c8;     border-radius: 14px;     padding: 20px;     transition: transform 0.2s ease;   }   .almuthanna-card:hover {     transform: translateY(-3px);     background: #ffffff;     box-shadow: 0 8px 20px rgba(18, 100, 200, 0.08);   }   .almuthanna-card h3 {     color: #103d70;     font-size: 17px;     margin: 0 0 8px;   }   .almuthanna-card p {     color: #52657b;     font-size: 14px;     margin: 0;   } </style>  <div class=\"almuthanna-about\">   <span class=\"about-badge\">من نحن</span>   <h2>مؤسسة <span>المثنى</span> للإبداع الرقمي</h2>   <p class=\"lead-text\">     شريكك الاستراتيجي للتحول الرقمي وبناء الحضور المؤثر في العالم الحديث. نجمع بين الرؤية الإبداعية والحلول التقنية المتقدمة لنقدم خدمات متكاملة تشمل التصميم الجرافيكي، وتطوير المواقع والتطبيقات، وإدارة الحملات التسويقية الرقمية وصناعة المحتوى. في «المثنى»، لا نكتفي بتنفيذ المشاريع فحسب، بل نصنع تجارب رقمية استثنائية ترفع من قيمة علامتك التجارية، وتعزز تواصلها مع جمهورها، وتضمن لها التفوق في سوق شديد التنافسية.   </p>    <div class=\"almuthanna-pillars\">     <div class=\"almuthanna-card\">       <h3>💡 الإبداع والابتكار</h3>       <p>حلول غير تقليدية تواكب أحدث التوجهات الرقمية العالمية وتبرز هوية علامتك التجارية بتميز.</p>     </div>     <div class=\"almuthanna-card\">       <h3>⚡ الجودة والاحترافية</h3>       <p>التزام تام بأعلى المعايير التقنية والفنية في كل مرحلة من مراحل التخطيط والتنفيذ.</p>     </div>     <div class=\"almuthanna-card\">       <h3>📈 التركيز على النتائج</h3>       <p>استراتيجيات مبنية على تحليل السوق لضمان تحقيق أهدافك وعائد استثماري ملموس ومستدام.</p>     </div>   </div> </div>"
     },
     {
       "label": "اتصل بنا",
@@ -52,6 +52,6 @@
   "footerCopy": "© مؤسسة المثنى للإبداع الرقمي _ جميع الحقوق محفوظة لسنة 2026™",
   "contactUrl": "/p/contact.html",
   "privacyUrl": "/p/privacy-policy.html",
-  "backTopShape": "hidden",
+  "backTopShape": "rounded",
   "backTopIcon": "▲"
 }
